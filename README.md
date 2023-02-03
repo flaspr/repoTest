@@ -22,6 +22,8 @@ Comandos testeados:
 
 `git merge RAMA` Permite fusionar la rama actual con otra
 
+`git remote add <rama> <repositorio-remoto>` Permite añadir la rama de un repositorio remoto
+
 `git push <repositorio-remoto> <rama>` Permite subir los commits a x rama de x repositorio
 
 `git pull <repositorio-remoto> <rama>` Permite traer los commits de x rama de x repositorio
