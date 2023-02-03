@@ -1,4 +1,5 @@
 # repoTest
+
 Repositorio para el testeo de git
 
 Comandos testeados:
@@ -21,4 +22,4 @@ Comandos testeados:
 
 `git push` Permite subir los commits
 
-`git pull` Permite traer los commits
+`git pull <nombre-repositorio> <rama>` Permite traer los commits
