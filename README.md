@@ -16,10 +16,14 @@ Comandos testeados:
 
 `git branch` Permite ver las ramas
 
-`git checkout RAMA` Permite cambiar de rama
+`git checkout <rama>` Permite cambiar de rama
+
+`git checkout -b <rama>` Permite crear una nueva rama
 
 `git merge RAMA` Permite fusionar la rama actual con otra
 
-`git push` Permite subir los commits
+`git push <repositorio-remoto> <rama>` Permite subir los commits a x rama de x repositorio
 
-`git pull <nombre-repositorio> <rama>` Permite traer los commits
+`git pull <repositorio-remoto> <rama>` Permite traer los commits de x rama de x repositorio
+
+`git diff` Para ver las diferencias de los cambios locales
